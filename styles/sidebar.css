@@ -1,0 +1,11 @@
+#sidebar{
+    width: 10%;
+    border: 1px solid gold;
+    padding: 20px;
+    background-color: coral;
+}
+#sidebar  h3{
+    background-color: aqua;
+    cursor: pointer;
+    
+}
